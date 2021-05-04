@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python Language
 - 👯 I’m looking to collaborate with Friends (sooner)
 - 💬 Email me down below..
-- 📫 How to reach me: farzerious_06@gmail.com
+- 📫 Contact me
 - ⚡ Hobbies Love Watcing Movies
 - 😄 Fun Fact Husky Lover
 - 📚 School Class- SHS Software Developer
