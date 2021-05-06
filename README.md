@@ -1,14 +1,14 @@
-## Hi There! ##
+## Hi There, My name is Jericho, Nice to meet you.##
 
 ### My Hobbies.Details Aboutme ###
-- 🔭 I’m currently studying on my own 
-- 🌱 I’m currently learning Python Language
-- 👯 I’m looking to collaborate with Friends (sooner)
+- 🔭 I’m currently studying on Networking
+- 🌱 I’m currently learning Python Language for Networks
+- 👯 I’m looking to collaborations.
 - 💬 Email me down below..
 - 📫 Contact me
 - ⚡ Hobbies Love Watcing Movies
 - 😄 Fun Fact Husky Lover
-- 📚 School Class- SHS Software Developer
+- 📚 IT Career - Network Engineer
 
 
 
