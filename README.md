@@ -1,4 +1,4 @@
-## Hi There, My name is Jericho, Nice to meet you.##
+## Hi There, My name is Jericho, Nice to meet you. ##
 
 ### My Hobbies.Details Aboutme ###
 - 🔭 I’m currently studying on Networking
