@@ -2,7 +2,7 @@
 
 ### My Hobbies.Details Aboutme ###
 - 🔭 I’m currently studying on IT Career
-- 🌱 I’m currently learning Python Language for Networks
+- 🌱 I’m currently learning on PMP
 - 👯 I’m looking to collaborations.
 - 💬 Email me down below..
 - 📫 Contact me
