@@ -1,7 +1,7 @@
 ## Hi There, My name is Jericho, Nice to meet you. ##
 
 ### My Hobbies.Details Aboutme ###
-- 🔭 I’m currently studying on Networking
+- 🔭 I’m currently studying on IT Career
 - 🌱 I’m currently learning Python Language for Networks
 - 👯 I’m looking to collaborations.
 - 💬 Email me down below..
