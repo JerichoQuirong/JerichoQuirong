@@ -8,7 +8,7 @@
 - 📫 Contact me
 - ⚡ Hobbies Love Watcing Movies
 - 😄 Fun Fact Husky Lover
-- 📚 IT Career - Network Engineer
+- 📚 Love Reading Books (For Education Only)
 
 
 
